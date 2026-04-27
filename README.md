@@ -4,8 +4,21 @@
 ![ML](https://img.shields.io/badge/Machine%20Learning-Regression-success)
 ![Tests](https://img.shields.io/badge/Tests-pytest%20passing-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+[![GitHub stars](https://img.shields.io/github/stars/omchaudhari602/House-Price-Prediction-End-to-End-Machine-Learning-System?style=social)](https://github.com/omchaudhari602/House-Price-Prediction-End-to-End-Machine-Learning-System/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/omchaudhari602/House-Price-Prediction-End-to-End-Machine-Learning-System?style=social)](https://github.com/omchaudhari602/House-Price-Prediction-End-to-End-Machine-Learning-System/network/members)
+[![GitHub last commit](https://img.shields.io/github/last-commit/omchaudhari602/House-Price-Prediction-End-to-End-Machine-Learning-System)](https://github.com/omchaudhari602/House-Price-Prediction-End-to-End-Machine-Learning-System/commits/main)
 
 An end-to-end machine learning project for house price estimation, featuring a reusable preprocessing pipeline, automatic model selection, Streamlit UI, and Flask API serving.
+
+Repository: `https://github.com/omchaudhari602/House-Price-Prediction-End-to-End-Machine-Learning-System`
+
+## GitHub Metadata (Recommended)
+
+Use the following for your repository settings page:
+
+- **Description:** End-to-end house price prediction ML project with preprocessing pipeline, model selection, Streamlit UI, and Flask API.
+- **Website (optional):** Add your deployed app URL when available.
+- **Topics:** `machine-learning`, `python`, `scikit-learn`, `streamlit`, `flask`, `regression`, `house-price-prediction`, `data-science`
 
 ## Table of Contents
 
